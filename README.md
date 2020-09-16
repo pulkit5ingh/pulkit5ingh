@@ -1,4 +1,4 @@
-### Hi there, I'm [Pulkit Singh !](https://hemant.codes) 👋.
+### Hi there, I'm [Pulkit Singh !]
 
 
 <br/>
