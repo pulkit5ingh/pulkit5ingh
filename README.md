@@ -1,4 +1,4 @@
-# Hi there, I'm Pulkit Singh :tw-1f60e: !
+# Hi there, I'm ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Pulkit Singh `!
 
 
 [![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
