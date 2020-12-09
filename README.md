@@ -1,6 +1,8 @@
 # Hi there, I'm Pulkit Singh :tw-1f60e: !
 
 
+[![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 <br/>
 <a href="https://twitter.com/">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
