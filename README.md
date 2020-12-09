@@ -1,7 +1,7 @@
 # Hi there, I'm Pulkit Singh !
 
 
-[![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+[![](https://im6.ezgif.com/tmp/ezgif-6-7b36d5ad2051.gif)](https://im6.ezgif.com/tmp/ezgif-6-7b36d5ad2051.gif)
 
 <br/>
 <a href="https://twitter.com/">
