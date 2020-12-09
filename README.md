@@ -1,6 +1,8 @@
 # Hi there, I'm Pulkit Singh  [![](https://im6.ezgif.com/tmp/ezgif-6-d6391f76692c.gif)](https://im6.ezgif.com/tmp/ezgif-6-d6391f76692c.gif)
 
 
+### Hi 🙋‍♂️,
+### I'm 22 years old Self-taught Full-Stack developer from India.
 
 
 <br/>
@@ -18,12 +20,8 @@
 </a>
 <br />
 
-<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br /> -->
-
-### Hi 🙋‍♂️,
-### I'm 22 years old Self-taught Full-Stack developer from India.
-
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<br />
 
 
 ***********************************
