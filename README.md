@@ -1,4 +1,4 @@
-# Hi there, I'm Pulkit Singh  [![](https://im6.ezgif.com/tmp/ezgif-6-d6391f76692c.gif)](https://im6.ezgif.com/tmp/ezgif-6-d6391f76692c.gif)
+# Hi there, I'm Pulkit Singh  [![](https://cdnck.netlify.app/ezgif-6-d6391f76692c.gif)](https://cdnck.netlify.app/ezgif-6-d6391f76692c.gif)
 
 
 ### Hi 🙋‍♂️,
