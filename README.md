@@ -33,6 +33,7 @@
 
 ### :zap: GitHub Stats
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingKrills&repo=github-readme-stats)](https://github.com/CodingKrills/github-readme-stats)
 
 
 ⭐️ From [codingKrills](https://github.com/CodingKrills)
