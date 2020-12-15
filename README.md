@@ -33,7 +33,7 @@
 
 ### :zap: GitHub Stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingKrills&repo=github-readme-stats)](https://github.com/CodingKrills/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingKrills&&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true)
+![](https://visitor-badge.glitch.me/badge?page_id=CodingKrills.CodingKrills)
 
 ⭐️ From [codingKrills](https://github.com/CodingKrills)
