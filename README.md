@@ -36,4 +36,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingKrills&&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true)
 ![](https://visitor-badge.glitch.me/badge?page_id=CodingKrills.CodingKrills)
 
+<img align="left" alt="codeghoul's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodingKrills&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
+
 ⭐️ From [codingKrills](https://github.com/CodingKrills)
