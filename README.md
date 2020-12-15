@@ -33,8 +33,6 @@
 
 ### :zap: GitHub Stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodingKrills&repo=github-readme-stats)](https://github.com/CodingKrills/github-readme-stats)
-
 <img align="left" alt="CodingKrills's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodingKrills&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
 
 ⭐️ From [codingKrills](https://github.com/CodingKrills)
