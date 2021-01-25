@@ -27,6 +27,5 @@
 ### :zap: GitHub Stats
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKrills)](https://github.com/anuraghazra/github-readme-stats)  
-<img align="left" alt="CodingKrills's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodingKrills&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKrills)](https://github.com/anuraghazra/github-readme-stats)<img align="right" alt="CodingKrills's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodingKrills&show_icons=true&hide_border=true&count_private=true&theme=graywhite&hide_title=true" />
 
