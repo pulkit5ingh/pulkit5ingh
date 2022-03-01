@@ -27,4 +27,4 @@
 ### :zap: GitHub Stats
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKrills&theme=dark&show_icons=true&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKrills&theme=dark&show_icons=true&layout=compact)
