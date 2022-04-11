@@ -1,6 +1,6 @@
-# Hi there, I'm Pulkit Singh 🙋‍♂️,
+# Hi there, I'm Pulkit Singh 🙋‍♂️
 
-### I'm 22 years old Self-taught Full-Stack developer from India :india: .
+### I'm 22 years old Self-taught Full-Stack developer from India.
 
 
 <br/>
