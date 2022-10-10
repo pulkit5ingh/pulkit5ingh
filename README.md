@@ -6,7 +6,7 @@
 
 <br/>
 <a href="./assets/social-media-gifs/facebook.gif">
-  <img align="left" alt="my name | Twitter" width="22px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/social-media-gifs/facebook.gif" />
+  <img align="left" alt="my name | Twitter" width="22px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/social-media-gifs/facebook.png" />
 </a>
 <a href="https://twitter.com/">
   <img align="left" alt=" my name | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
