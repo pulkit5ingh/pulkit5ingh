@@ -2,7 +2,9 @@
 
 ### I'm 22 years old Self-taught Full-Stack developer from India.
 
-  <img align="center" alt=" my name | Twitter" width="600px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
+  <img align="centre" alt=" my name" width="400px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
+
+  <img align="centre" alt=" my name" width="400px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
 
 [![@codingkrills's Holopin board](https://holopin.io/api/user/board?user=codingkrills)](https://holopin.io/@codingkrills)
 
