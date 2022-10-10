@@ -4,6 +4,8 @@
 
 ![alt text](https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png)
 
+  <img align="left" alt=" my name | Twitter" width="200px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
+
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=codingkrills)](https://holopin.io/@codingkrills)
 
 <br/>
