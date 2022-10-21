@@ -1,5 +1,9 @@
 # Hi there, I'm Pulkit Singh 🙋‍♂️
 
+<p align="center">
+  <img align="centre" alt=" my name" width="300px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
+</p>
+
 ### I'm 26 years old Self-taught Full-Stack developer from India.
 
 ## Skills <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/micacalala-michi.gif" width="50">
@@ -8,12 +12,6 @@
 - ⚙️ Frameworks/IDE - Android Studio, Eclipse, Vs code
 - 👁️ Database - SQLite, Firebase
 - 💽 Version Control System - Git, GitHub
-
-<p align="center">
-  <img align="centre" alt=" my name" width="300px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
-<p align="center">
-  <img align="centre" alt=" my name" width="400px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
-</p>
 
 [![@codingkrills's Holopin board](https://holopin.io/api/user/board?user=codingkrills)](https://holopin.io/@codingkrills)
 
