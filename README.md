@@ -4,7 +4,7 @@
   <img align="centre" alt=" my name" width="300px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
 </p>
 
-## About Me <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/about.gif" width="50">
+## About Me <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/about.gif" width="20">
 
 - 👨‍💻 I'm 26 years old Self-taught Full-Stack developer from India.
 
