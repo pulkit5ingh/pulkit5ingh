@@ -10,10 +10,10 @@
 
 ## Skills <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/micacalala-michi.gif" width="50">
 
-- 👨‍💻 Programming Language - Java, JavaScript
-- ⚙️ Frameworks/IDE - Android Studio, Eclipse, Vs code
-- 👁️ Database - SQLite, Firebase
-- 💽 Version Control System - Git, GitHub
+- 👨‍💻 Programming Language - JavaScript, Typescript
+- ⚙️ Frameworks/IDE - Nodejs, Expressjs, Reactjs, Vs code.
+- 👁️ Database - MongoDB, Firebase.
+- 💽 Version Control System - Git, GitHub.
 
 [![@codingkrills's Holopin board](https://holopin.io/api/user/board?user=codingkrills)](https://holopin.io/@codingkrills)
 
