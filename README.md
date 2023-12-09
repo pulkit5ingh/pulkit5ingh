@@ -6,7 +6,7 @@
 
 ## About Me <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/about.gif" width="40">
 
-- 👨‍💻 I'm 24 years old Self-taught Full-Stack developer from India.
+- 👨‍💻 Hello i am Pulkit Singh. A passionate Full Stack Developer with a love for crafting seamless user experiences and robust backend solutions based in Kolkata, India 🇮🇳 .
 
 ## Skills <img src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/micacalala-michi.gif" width="50">
 
