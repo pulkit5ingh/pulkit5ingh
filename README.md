@@ -1,4 +1,4 @@
-# Hi there, I'm Pulkit Singh 🙋‍♂️
+# Hello I'm Pulkit 🙋‍♂️
 
 <p align="center">
   <img align="centre" alt=" my name" width="300px" src="https://github.com/CodingKrills/CodingKrills/blob/master/assets/me.png" />
